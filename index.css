@@ -1,0 +1,46 @@
+h1{
+    color: rgb(212, 194, 229);
+    text-decoration: underline;
+
+}
+
+html{
+    background-color: rgb(171, 6, 30);
+}
+
+body{
+
+    background-color:hsl(349, 19%, 83%) (0, 255, 247);
+    border: 10pt;
+    margin: 70pt;
+    margin-bottom: 100pt;
+    margin-top: 0pt;
+    border-style: solid;
+    padding: 20;
+    text-align: center;
+    white-space: pre;
+    align-items: center;
+         
+
+    
+}
+
+button{
+
+            color: rgb(213, 20, 94);
+}
+
+label{
+
+            color: rgb(213, 20, 94);
+}
+
+#results{
+            color: rgb(213, 20, 94);
+            text-size-adjust: 50;
+            font-size: large;
+            text-decoration: underline;
+}
+em{
+color: pink;
+}
